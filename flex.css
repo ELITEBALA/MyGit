@@ -1,0 +1,10 @@
+div{
+    display: flex;
+    padding: 10px;
+}
+img
+{
+    padding: 5px;
+    border: 2px solid blue;
+    background-color: aqua;
+}

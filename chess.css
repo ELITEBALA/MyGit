@@ -1,0 +1,27 @@
+body{
+    margin-top: 30px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 1px;
+}
+.chessboard{
+    border: 2px solid black;
+}
+.row{
+    display: flex;
+}
+.white
+{
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    color: white;
+}
+.black
+{
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    color: black;
+}

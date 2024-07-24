@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: azure;
+}
+.top{
+    display: flex;
+    height: 100px;
+    margin-left: 130px;
+    padding-top: 20px;
+    position: relative;
+}
+#welcome{
+    text-align: center;
+}
+#welcomeimg{
+    padding-top: 15px;
+}
+nav ul li{
+    padding-left: 10px;
+    list-style-type: none;
+    display: inline-block;
+}
+#f{
+    color: rgb(255, 0, 89);
+}
